@@ -8,7 +8,7 @@ contact:
     given-names: André
     orcid: "https://orcid.org/0000-0002-2426-3126"
 message: "If you are using / referring to these materials in your own work, please cite it using these metadata."
-title: "Artelt, A., (2026). *Explainable Machine Learning for Water Distribution Systems.* Artificial Intelligence Tools for Transient Flow Analyses, IAHR TRAINING COURSES SERIES."
+title: "Artelt, A. (2026). *Explainable Machine Learning for Water Distribution Systems.* Artificial Intelligence Tools for Transient Flow Analyses, IAHR TRAINING COURSES SERIES."
 keywords:
   - XAI
   - tutorial
